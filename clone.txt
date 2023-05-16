@@ -1,0 +1,524 @@
+
+
+                               C L O N E (TM)
+
+
+                               Documentation
+
+
+                             (C) Copyright 1997
+                            Antares Productions
+                            All Rights Reserved
+
+
+
+
+*** Introduction ***
+
+
+Welcome
+~~~~~~~
+You're about to enter the amazing world of Clone and to face tons of puzzles
+and enigmas that will challenge your mind for weeks...  Most probably,
+you've already played puzzle games with many characters to control, but you
+sure haven't had to control ALL of them at the SAME TIME!!!  Playing around
+with the little blue clones is as simple as your ABC...  But here, simple
+doesn't mean easy!!!  Hehe...
+
+Print Out
+~~~~~~~~~
+It is strongly suggested to print this document and to keep it near while
+playing.  To print it, type the following at the DOS prompt, while in your
+Clone directory: "type clone.txt > prn" without the double-quotes, and
+press ENTER)
+
+If you're running under Windows and have MS-Word, then you might like to
+access the Word version instead, with enhanced page-layout and graphics.
+
+Another document that might be of help to you, especially if you're new with
+puzzle games, is goals.doc and goals.txt. (The former is the Word
+version, while the later is the text-only equivalent).  This document
+describes the goals of every puzzles, with some tips, but without giving
+away any solutions! Hehe...
+
+Quick Start
+* Type "clone" and ENTER at the DOS prompt.  (If anything goes wrong with
+  program startup, refer to the Command-Line Trouble-Shooting Switches
+  section further in this document)
+* Choose the episode to play and click on Play.
+* Once it the main menu, the program prompts you for a name to give your
+  hero : type it and press ENTER.
+* At the bottom right of the main menu is the Levels panel. To play now,
+  just click on the vertical Play button on this panel.
+
+
+Question and Comments
+~~~~~~~~~~~~~~~~~~~~~
+Feel free to Email me at mathieu.frenette@bigfoot.com.  I will be glad
+to answer any of your questions and chat about the game.
+
+
+
+*** The Game Interface ***
+
+
+The Main Menu
+~~~~~~~~~~~~~
+    Options (top left of main menu)
+    ~~~~~~~
+    * Return To Game lets you return to your current game as it was when you
+      left it.
+    * Look Intro shows the scrolling text you saw when entering this
+      episode.
+    * Settings allows to change the music and sound effects volume,
+      calibrate joystick, change keys assignment, etc.
+    * Help!!! is and online tutorial for an easy introduction to Clone, and
+      to how it plays.  The game will be in auto-pilot mode, so you just
+      have to read the scrolls and press ENTER to go to the next lesson.
+      If you want to try the tutorial by yourself, start it again and press
+      TAB.  This will turn-off auto-pilot.
+    * Ordering Info gives all the information you need for ordering the
+      complete Clone series of 6 episodes.  This document you're reading
+      also contains this information, under the Ordering Information
+      section.
+    * Quit returns you to the menu of the episodes.
+
+    Heroes (top right of main menu)
+    ~~~~~~
+    This part of the main menu allows you to create new players, or delete
+    them. This way, if a friend of yours wants to play, just let him create
+    his own player, while leaving yours unchanged.
+
+    Levels (bottom right of main menu)
+    ~~~~~~
+    This part of the main menu allows you to skip some levels or to retry
+    any levels you already completed (ie. You can retry previous levels at
+    higher difficulty levels).  To play the selected level now, just click
+    on the vertical Play button.  If you want to postpone the currently
+    selected level and try the next one right away, use the vertical Skip
+    button (maximum of 3 skipped levels allowed).  When you complete a
+    level, it will be marked with a little blue bullet in the list : the
+    size of the bullet corresponds to the difficulty level, so you can see
+    which levels you could try at a higher difficulty level.
+
+    Difficulty Level (bottom left of main menu)
+    ~~~~~~~~~~~~~~~~
+    This part of the main menu allows you to set the game to the difficulty
+    level that best suits you.  Note that you can change the difficulty
+    level at any time.  However, if you're already playing a level and that
+    you change the difficulty level meanwhile, the new difficulty won't be
+    effective until you restart the puzzle by clicking on the vertical Play
+    button from the Levels panel.
+
+
+The Inventory Bar
+~~~~~~~~~~~~~~~~~
+
+The inventory bar is displayed at the bottom of the game screen.  You can
+press ENTER to hide or display it at any moment during the game.  It
+contains three sections : the objects inventory, the currently active
+protections, and finally the energy status.
+
+* Objects Inventory : Everything you found in a level is displayed here. The
+  current object is displayed in the golden frame.  To cycle the objects
+  through the golden frame, press ALT, and to use the current object, press
+  SPACE.
+
+* Protections : The little icons here are lit when you are protected against
+  some kinds of trap.  The green potion is against acid, yellow against
+  lightnings, red against fire, blue against ice, and the shield is against
+  arrows.  For more information about that, refer to the Puzzle Elements
+  section, under the Objects and Traps paragraphs.
+
+* Energy : This bar shows how much energy you're left with.  If there's more
+  than one clone, then this bar shows all of their energy.
+
+
+The Keyboard (in game)
+~~~~~~~~~~~~
+ 
+    Movements
+    ~~~~~~~~~
+    Cursors          Move around
+    CTRL + Cursors   Look in a direction without moving
+    CTRL             Stop moving instantly (or almost)
+
+    Screen Scrolling
+    ~~~~~~~~~~~~~~~~
+    PgUp            Scroll screen up
+    PgDn            Scroll screen down
+    Scroll Lock     Toggle auto-scrolling-lock on and off (if the ScrollLock
+                    led is lit on your keyboard, then it means scrolling is
+                    locked and you have to manually scroll the screen)
+
+    Inventory
+    ~~~~~~~~~
+    ALT     Select object in inventory (current object is in gold frame)
+    SPACE   Use current object in inventory
+    ENTER   Toggle inventory bar or close a scroll when done reading it
+
+    Miscellaneous
+    ~~~~~~~~~~~~~
+    A       Abort and retry the current level
+    P       Pause game
+    ESC     Return to main menu
+
+    Sound Control
+    ~~~~~~~~~~~~~
+    M       Toggle Music
+    F       Toggle sound FX
+    S       Toggle Sound (both Music and FX).
+
+
+*** Command-Line Switches ***
+
+Defaults (for first-time users)
+~~~~~~~~
+For default configuration, just type "clone" and then ENTER at the DOS
+prompt when you're in your Clone directory.
+
+Standard switches
+~~~~~~~~~~~~~~~~~
+* To get a quick switches reference, use the /? switch.
+* To enter an episode directly without going through The Hall, use the /Wn
+  switch, where n is the number of the episode from 1 to 6.
+* To start Clone without intro screens and ending title, use the /NUDE
+  switch.
+* To turn all music and sound fx off, or if you want to prevent the program
+  from detecting your soundcard, use the /QUIET switch.
+
+Trouble-shooting parameters (if you have any problems getting Clone to run)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* If your screen sometimes displays garbage, try the /VMC=ON switch.  This
+  will force the game to run in a more compatible video mode and allow you
+  to scroll the display horizontally in order to be able to see the entire
+  screen.  In VMC, use HOME and END to scroll screen left or right and
+  use INSERT to return to auto-scrolling.
+
+* If your sound card plays music too slowly or weirdly, try the /SNDAUTO=ON
+  or /SNDFREQ=4 switches.
+
+* If you can't hear anything at all, make sure the program is detecting your
+  sound card correctly (make sure your sound card's name is mentionned on
+  the startup screen).  If it's not the case, try the switch corresponding
+  to your sound card (/SB for Sound Blaster and compatibles, /GUS for Gravis
+  UltraSound, /SS for Ensoniq SoundScape) to force the program to use it.
+
+
+*** The Clone World ***
+
+The Puzzle Elements
+~~~~~~~~~~~~~~~~~~~
+WARNING: The following section contains fun-spoiling informations that
+experienced players won't want to read.  It describes most puzzle elements
+you'll encounter.  Even though it doesn't contain any actual solutions to
+puzzles, reading a puzzle element's behavior might spoil experimentation and
+creativeness.
+
+    Miscellaneous Blocks
+    ~~~~~~~~~~~~~~~~~~~~
+    Big Blue Jewels (End of Level):
+     This jewel is the ultimate goal to reach in order to complete a level.
+     Note that if there are more than one clone in the level, all of them
+     that are still alive must reach this jewel.
+
+    Locked Doors and Corresponding Keys:
+     The silver and golden doors must be opened with the corresponding keys.
+     If you have the right key, just press on the door to unlock and open
+     it.
+
+    Treasure Chests:
+     Those chests sometimes contain many objects.  Press on the chest once
+     to open it and grab everything it contains.  Once the chest is open,
+     you can move it around like any other blocks.  If you're playing with a
+     joystick, the chest will be pushed at the same time it is opened, so it
+     may be wise to temporarily use the keyboard when dealing with chests,
+     especially when the position of the chest does matter.
+
+    Rocks:
+     The rocks are like walls in that they can't be moved.  However, they
+     can be destroyed by explosions.  Note that the brightest rocks require
+     three explosions in order to disappear completely, while the
+     not-so-bright-not-so-dark rock requires two explosions, and the
+     darkest rock, only one.
+
+    Explosive-Powder Barrels:
+     Those barrels contain very dangerous explosive-powder and will react
+     violently to an explosion by producing another explosion.  Beware of
+     chain reactions when such barrels are packed in a row!  Note that you
+     can push those barrels to make them roll on the ground : They won't
+     stop rolling until they hit a wall or obstacle, and will then explode!
+
+    Ice Cubes:
+     The ice cubes are similar to other blocks, except that when they are
+     pushed, they keep sliding on the ground until they hit something.  Note
+     that Ice Cubes will melt if struck by an explosion or a fire ball.
+
+    Vehicles
+    ~~~~~~~~
+    Rafts:
+     With a raft you can travel on water and cross rivers.  Note that as
+     long as a raft is still on the ground you can move it around as you
+     would with any other blocks.  Once you pushed it into the water, you
+     can step onto it and start navigating, but you can't push it back onto
+     the ground.
+
+    Golden Rings:
+     You can enter a ring sideways and roll in it forward or backward.  Note
+     that you can also push it from the outside.
+
+    Mine Carts:
+     With a mine cart you can travel on railroads.  Note that as long as a
+     mine cart is not on the rails you can move it around, but only in the
+     same direction as the cart's wheels.  Once you pushed it onto the
+     rails, you can step onto it and start traveling, but you can't push it
+     back off-rails.
+
+    Mecanisms
+    ~~~~~~~~~
+    Buttons and Levers (on the walls):
+     You can activate mecanisms by pressing buttons and levers.  Buttons can
+     be depressed only once and cannot be poped back, while levers can be
+     toggled as many times as you like.
+
+    Trigger Tiles (on the ground):
+     Another way to activate mecanisms is to walk over tigger tiles.  Some
+     of those will remain depressed, while others will pop-up as soon as you
+     walk away.  Such tiles require something heavy to be moved over them
+     (yeah, like in Indiana Jones! Hehe...) like a color-crystal, a ring, a
+     raft, a treasure chest or anything similar.  Note that most of the
+     times, when there are many clones in the level, you have to move all of
+     them over the trigger tiles at the same time.  This involves that you
+     arrange all the clones in the same pattern as the tiles by using the
+     obstacles to offset them correctly.
+
+    Color-Crystals and Color-Crystal-Sockets:
+     There are seven kinds of color-crystals, each with a different color.
+     In order to activate a mecanism with a color-crystal, you have to move
+     it over the crystal-socket of the corresponding color.  Beware: Once
+     the color-crystal has been set onto its socket, it is NOT stuck there
+     and can be moved away.  Beware not to displace it unvoluntarily!
+
+    Big Blue Numbers:
+     This kind of mecanism must be decreased down to zero in order to be
+     activated.  Most of the time, you have to activate many buttons,
+     levers, trigger tiles or crystal-socket, each of them will decrease the
+     big blue number by one unit.
+
+    Objects
+    ~~~~~~~
+    Scrolls:
+     Scrolls contain precious information and riddles.  To read a scroll,
+     select it from your inventory with ALT and then press SPACE.  When
+     you're done reading the scroll, press ENTER.
+
+
+    Bombs:
+     Bombs are used to destroy rocks and other fragile items.  To use a
+     bomb, select it from your inventory with ALT and then press SPACE.
+     But you'd better hide away before it explodes!  Hehe...  The explosion
+     will cover a 9 tiles area (3 tiles wide per 3 tiles high) so you can
+     anticipate where to hide in order to be safe.  Note that you won't
+     suffer any damages at all if you are right beside an explosion when it
+     occurs.
+
+    Potions of Protection:
+     The potions immune you against some traps.  But you must first drink
+     them in order to be protected!  To use a potion, select it from your
+     inventory with ALT and then press SPACE.  A little icon will light
+     up on the menu bar (between the inventory and the energy bar) to
+     indicate that the protection is effective.  Note that once a protection
+     is effective, it won't expire until you really need it (ie. Being hit
+     by the corresponding trap).
+
+    Shields:
+     The shields protect you against arrows.  Refer to potions of
+     protections (above) for details on how to use them.
+
+    Gems of Vitality (small purple jewels):
+     The Gems of Vitality enclose the pure essence of life and are VERY
+     rare.  To gain the energy contained by a gem, select it from your
+     inventory with ALT and then press SPACE.
+
+    Traps
+    ~~~~~
+    Acid Pots, Thunder Clouds, Bows, Fire Traps, Ice Traps, and Vacuums:
+     Those traps will shoot you whenever you walk in from of them.  To be
+     protected, you can either move a block in front of them or use a
+     magical protection (potions and shields).  But note that they have
+     particular orientations that you must know in order to be able to walk
+     around them:
+
+    * The acid pots shoots acid drop upwards.
+    * The thunder cloud shoots lightnings downwards.
+    * The bow shoots arrows sideways (left OR right, depending on the side
+      it's poiting toward).
+    * The fire and ice traps shoot fire and ice balls in ALL directions.
+    * The vacuum sucks you in from ALL directions.
+
+    Ray Guns:
+     The ray guns are particular traps in that there must be two of them
+     heading toward each other in order for the trap to be effective.  You
+     can be protected from those traps by moving a block in front of AT
+     LEAST one of the two guns: this is enough to put the trap temporarily
+     out of order.
+
+    Spikes:
+     Spikes can be very dangerous hazards, except if you know how to walk
+     around them.  The trick is easy: never arrive on a spike from the
+     direction of its tip.  Though, you can arrive from any other direction
+     and leave in ANY direction at all.
+
+    Movement-Restricting Elements
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Red One-Ways:
+     The Red One-Ways prevent you from arriving on the tile from the
+     direction of the arrow.  Though, you can arrive from any other
+     direction and leave in ANY direction at all.
+
+    Turning One-Ways (one-ways with a tiny curly arrow over them):
+     Turning One-Ways are similar to standard Red One-Ways, except that each
+     time you step over them, they rotate clockwise 90 degrees.  TIP: It is
+     strongly suggested to plan what direction the turning one-ways will be
+     heading to before actually moving over them, in order to avoid being
+     stuck in a little area or not being able to come back to an important
+     location.
+
+    Pipes and Pipe-Intersections:
+      Pipes are tunnels that you must follow from one end to the other,
+      while pipe-intersections can be entered from ANY direction at all, but
+      can only be left in the direction of the two little red arrows.
+
+    Rail-Roads:
+     The only way to travel on rails is to use a mine-cart.  Note that you
+     can move any block onto the rails and then push it with the mine-cart,
+     but make sure you will be able to move the block off the rails (usually
+     using a rail-corner).
+
+    Magic
+    ~~~~~
+    Runes Carved on the Ground:
+     Just step over those runes in order to unleash the magic they enclose.
+
+    * The first is the Rune of Cloning, which will clone yourself into more
+      little blue beings.
+    * The second is the Rune of Uncloning, which will get you back to your
+      single form.
+    * The last is the Rune of Invincibility, which will morph all clones
+      into invincible little devils for some seconds.
+
+    Fire- and Ice-Ball Casting Magical Items:
+     Those magical items allow you to cast fire- and ice-balls.  The spell
+     is cast in the direction your clone was heading when you arrived on it.
+
+    * A fire-ball will explode when it hits an obstacle.  Note that the
+      explosion will be as big as a bomb if the distance of the cast if long
+      enough (otherwise, it will only be one tile big).
+
+    * An ice-ball will produce an ice-cube when it hits an obstacle.  Note
+      that you can freeze creatures with this spell.
+
+
+The Creatures
+~~~~~~~~~~~~~
+WARNING: The following section contains fun-spoiling informations that
+experienced players won't want to read.  It describes most creatures you'll
+encounter.  Even though it doesn't contain any actual solutions to puzzles,
+reading a creature's behavior might spoil experimentation and creativeness.
+
+    Little Blue Being (also known as "The Hero"):
+     Hey!! It's you!!  Note that your orientation DOES matter for a certain
+     number of things, like casting magical fire- and ice-balls, and for
+     some creatures that you must not look directly into the eyes, like the
+     Floating Guardians.
+
+    Gluttons:
+     The gluttons are not really offensive, but they're the ones who trigger
+     the deadly count-downs in the ending levels of the four last episodes!
+
+    Creatures of "Mornack's Castles"
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Dumb Boars:
+     Those boars aren't offensive, but they definitely will be more than a
+     problem for you : they're always at the wrong place, and at the wrong
+     moment.  If one is in your way, move close to it, wait until it goes
+     away, and then quickly take his place before another does.
+
+    Floating Guardians:
+     Those floating beings will roast you as soon as you look directly into
+     their only-eye.  And if one of them notices you, he will stare at you
+     until you go away or show him your back (ie. if a guardian is staring
+     at you on your right, just look toward your left and he won't bother
+     you any longer).  Also, you might be able to move toward them while
+     rolling, but I wouldn't take the chance!!!
+
+    Frantic Arachnids:
+     Those quickly-moving-spider-like-nine-eyed beings are really
+     routine-minded, but a touch of chaos might make them go wild.  Take my
+     advice : if such a spider has you in sight, you'd better hide behind a
+     wall VERY quickly before it arrives, or you're as good as dead!!!  No
+     doubt they're the most deadly creatures in all the Worlds of Clone!
+     Hehe...
+
+    Creatures of "Frozen Mountains"
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Wall-Kers:
+     Wall-Kers, as their name suggests, are living-walls.  Unfortunately,
+     they tend to sleep too often!  Puzzles that contain such beings turn
+     out to be living labyrints of stone that can entrap you for a while!
+
+    Dragons of Confusion:
+     Those dragons are easy to mistake.  One is kind and the other is mad!
+     The kind dragon of confusion will only blow you some tiles away if you
+     walk under him, while the mad one will burn you with his fire breath!
+     Note that the fire breath is only some tiles long.
+
+    Creatures of "Ground Bowels"
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Fire-Gargoyles:
+     Those gargoyles of the underworld can reduce you to the size of an
+     atom!  Their orientation DOES matter, since when they're looking away
+     from you, they won't see you...  And if you're brave enough to sneak
+     and touch one of them, it will turn into a stone statue...  But beware
+     that it doesn't turn toward you until you touch it!  Note that such
+     stone statues can be destroyed by explosions.
+
+    Sarcasm Devils:
+     Those ever-laughing-devils will try to transform you into another
+     devil, but don't become one of theirs!
+
+    Creatures of "Future Destiny"
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Living Sparks:
+     Living sparks are brainless entities that escaped some energy sources
+     and that must follow walls indefinitely.  A little like
+     frantic-arachnids, they have very mechanical behaviors, unless some
+     chaos make them go wild.  You'd better take advantage of their rhythm
+     in order to stay alive!
+
+    Creatures of "Kaos Realms"
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Kaos Ghosts:
+     Kaos Ghosts are lethal in that they aren't stopped by walls or any
+     obstacles.  If one of them touches you, you'll be so afraid you won't
+     be able to move for some seconds and you'll lose some energy...
+
+    Claws of the Dark:
+     Those gloomy creatures are living inside the walls of the Kaos Realms
+     and will try to grab and eat you for lunch!  In order to walk in front
+     of a Claw of the Dark, wait till it just disappeared into the wall, and
+     then hurry up and move to the next tile.  Don't be brave, just wise and
+     patient!  Hehe...
+
+
+*** Conclusion ***
+
+I've always been told in my French classes that any well-constructed
+document had to have a conclusion.  Well...  Here it is!!!  Hehe...
+
+Here at Antares Productions we put all our efforts in making Clone as fun
+and as valuable as possible and we spent almost two years developing it.  It
+has been a real pleasure to produce this game and we hope you'll love it as
+much as we do...  Enough with that...  Have fun!!!
+
+                                                        MidKnight / Antares.

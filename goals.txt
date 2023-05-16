@@ -1,0 +1,629 @@
+
+                               C L O N E (TM)
+
+                               Goals and Tips
+
+
+    Note: This document is intended to provide you with the major goals of
+    each puzzle, since these might not be evident at the first look.  This
+    document will prove to be very helpful to beginners.  However, even if
+    we tried not to give away any solutions to the actual puzzle elements,
+    we'd suggest experienced players not to read the following.
+
+
+--- Episode 1: Mornack's Castle --------------------------------------------
+
+Level 1.  Welcome: Get the silver key, open the silver door, then find a way
+to make the exit gem appear at the bottom of the level.
+
+Level 2.  No Return: Get the golden key (beware of one-ways!), find a way to
+release the silver key (team work!), open the silver door and exit.
+
+Level 3.  Offset: Make your clone(s) appear, then make all of them cross the
+harrow at the right (beware not to make any of them exit before all have
+gone through the gate!)
+
+Level 4.  Traps: Try to find your way through these traps.  There's a logic
+to understand and these traps will come back in other levels, so taking the
+time to understand everything correctly is worth the trouble!  Then pickup
+the potion(s) in the chest and use them (SPACE) before going any further.
+Go get the other protections and exit.
+
+Level 5.  Boars: Don't worry, these aren't dangerous, except for your
+nerves!  This one is as simple as placing all four crystals onto their
+respective sockets.
+
+Level 6.  Similar 1: Just place both crystals onto their color sockets.
+
+Level 7.  Rings: Make your way through the rings in order to trigger all the
+red buttons at the left and right extremities of the level.  You can roll
+inside a ring, or push it from the outside.  You can push a ring from within
+another ring, but you can't push two ring from the outside at the same time.
+Beware not to block your exits.  Although, rings are easier to deal with
+than crystals, so when you think you are stuck, you might not really be!
+
+Level 8.  Guardians: Make your way through the Guardians while striving to
+trigger all round tiles on the ground, in order to open the door to the exit
+gem.  Never look in the direction of a Guardian or you'll be roasted!  When
+Guardians spot you, they stare at you for as long as you stay still.  But
+there's a way to make them go away, as if you were invisible...
+
+Level 9.  In The Woods: Just move the crystals over their respective
+sockets.  But for that, you'll have to find your way through the forest.
+There are sort of brighter paths in the woods, which you can walk through.
+
+Level 10.  Simple: Try to make the rocks blow with the help of the bomb
+given to you (SPACE to use it), but you should still be able to reach the
+exit gem without being fried alive by the thunder clouds.
+
+Level 11.  A-MAZE-ING: Trigger all buttons and tiles on the ground.  Beware
+of one-ways and always keep your clones close to each others.
+
+Level 12.  Deep Forest: Find your way through this huge amazonian forest.
+Find all golden and silver keys and find the exit gem.
+
+Level 13.  The Raft: Bring the other raft (on the island) back to your
+clone, in order for both of you to be able to cross the river to the exit
+gem.
+
+Level 14.  Too Many: Get all keys and then to the exit gem!  NB: Here, the
+one-ways aren't really dangerous, since they can be rotated by making other
+clones step on the activation tiles.
+
+Level 15.  ReUse: Well...  One crystal, many sockets...?
+
+Level 16.  Massacre: Pick-up the potion versus fire in both chests and use
+them all immediately.  Bring the raft to a narrow section of the river so
+that all clones can cross it. Bring them in the tunnel at the bottom of the
+level.  You need at least six clones to open the exit, and then the last
+clone alive must survive in order to succeed.
+
+Level 17.  Chained: Bring the crystal(s) on their sockets.  Team work! :)
+
+Level 18.  Paradoxal: Bring all crystals on their corresponding color
+sockets in both the left and right rooms.  Beware not to displace a crystal
+while trying to reach the exit gem.
+
+Level 19. Trapped: Find the exact movements to bring all clones on the
+trigger tiles at the same time, without exposing them to traps!  You must
+keep all clones alive!
+
+Level 20. MaxiNixaM: Bring all clones in the middle of the level without
+killing one of them.  Make use of strategies!
+
+Level 21. The Nest: Get the three keys, trigger the three tiles over the
+keys, open the three doors, and trigger the three tiles beyond these doors.
+Beware not to be seen by a Frantic Arachnid!  If one notices you, go hide
+behind a wall or die!  And don't forget to hurry up!  This is the last level
+of the episode and your are timed!  When your time elapses (left blue digit
+is 0 and right is 9) all Arachnids are set loose on you!
+
+
+--- Episode 2: Frozen Mountains --------------------------------------------
+
+Level 1.  Lotankass: You must bring both clone on the first two tiles at the
+same time.  This will open the way for one clone.  Then do the same of each
+set of two tiles.  If your difficulty level is KooL or Foolish! then beware
+of spikes!
+
+Level 2. The Clock: Bring the four crystals on the four sockets. To get some
+challenge, try it at Foolish! it's worth it!
+
+Level 3. Dragons: Here you must get all of the keys.  Try to tell the
+difference between all dragons.  The kind dragons will only blow you some
+tiles downward, while the mad dragons will roast you!  But there's a way to
+avoid their breath...  (and it's not necessarily a block!)
+
+Level 4. Islands: Find the keys and head to the doors and the bottom left
+corner of the level.  Finding the keys might not be easy, since they're
+concealed under the trees.  Make sure to explore every little corner.
+
+Level 5. The Salvior: Go help your clones to leave their islands.  And don't
+waste your rafts, you'll need all of them!
+
+Level 6. Sacrifices: The tile on the left-hand extremity controls the harrow
+to the exit gem.  You must cast a magical ice block on this tile in order to
+access the end of the level.  But...  well...  There's someone in the way...
+Just a matter of planification...  and timing!  This one is really worth
+trying at Foolish!
+
+Level 7. Matitash: Just move the crystals over their sockets.  Simple?  Nah!
+
+Level 8. Recycle: Use the yellow crystal as shields against the thunder
+clouds.  But read the name of the level... twice! And then twice again! :)
+
+Level 9. Passage: Bring all of the clone to the left then up in the narrow
+passage then right between the lasers.  Beware not to desintegrate any of
+your clones, you'll need them all to open the final door.
+
+Level 10.  Cross-Wind: Move all crystals on their socket on the left.  Easy?
+Might be...
+
+Level 11.  Ice-Cubes: Four tiles, four ice-cubes, well...!
+
+Level 12.  Wall-Kers: Take the upper corridor to the right room and gather
+all keys in this room.  Then come back to take the lower passage to the
+other room and get the silver and golden keys.  Then open all doors and
+exit.  By the way, you'd better hurry up, the Frantic Arachnids are awaiting
+to bite your tender blue flesh!
+
+Level 13.  Passes: This one is sport and team play.  Every clone must be at
+the right place at the right moment, but don't worry, in this one you've got
+all your time.
+
+Level 14.  Partakuus: Bring all six horizontal rings in the middle of the
+room, between the one-ways.  Beware not to move a clone into this middle
+column, since there's no way out!
+
+Level 15.  Seven: Once again, move all crystals over their sockets.
+However, in my opinion, this one is only really fun to play with the
+Foolish! difficulty level.
+
+Level 16.  Quaternaum: Guess what?  Crystals, sockets...?  Yeah, right...
+Crystals over sockets! :)  But this one is gonna require some team work.
+
+Level 17.  Block Them: First, activate the Cloning Rune to the left of the
+big blue "5".  Now you're 5!  All clones must be on a trigger tile at the
+same time in order to open the exit.  Now, how?  You to guess!
+
+Level 18.  Paranoid: Well, there's lot of traps in there! Step 1: Move the
+blue crystal to block most traps, but don't waste any of them, each has its
+purpose.  Now, look near the bottom of the level, there's a frozen lever on
+the wall. This lever opens the door to the exit gem.  Step 2: Reach this
+lever by going to the top of the level, then following the right area down
+to the bottom of the level then to the lever.  But beware not to forget any
+unblocked trap!
+
+Level 19.  Longit: (This one was named by the friend who conceived the
+puzzle, from the word Longitude because he commented that most of Clone's
+puzzles were horizontal! :)  Yet another Move The Crystal Over the Color
+Socket story, but think twice as for which block to move first and where!
+
+Level 20.  Groom: First, you need to open the harrows to the right by
+depressing the two tiles in the middle of the top of the level, right on the
+sides of the big blue "2".  To use the Magical Ice Cube after picking it up,
+just press SPACE while taking care of heading in the correct direction.
+Then, there are two tiles left, on the two upper corners of the level, but
+the two clones are both on the same side...?  How to reach the left trigger
+tile???  Do you really think I'll disclose the key to my puzzle!?! :)
+
+Level 21.  The Freezer: Love moving crystals around to sockets?  But what if
+you're given ice cubes instead of crystals and that they slip away as soon
+as you push them a little???  That makes it very difficult to cover all
+trigger tiles at once!  NB: Beware not to block the lower left corner of the
+level, because the exit gem is there!
+
+Level 22. Doom!: Well...  You'll remember The Freezer here, except that
+there are improved difficulty factors, like having to use many clones and...
+A DEADLY COUNT-DOWN!!!
+
+
+--- Episode 3: Ground Bowels -----------------------------------------------
+
+Level 1.  N-Trans: (Read "Entrance"!) Get the bombs in the left room, then
+get the keys in the right room  (To use bombs, press SPACE).  Then take the
+middle passage down to the underworld.  Here, you need to open the golden
+door just to the left of the passage you came from (yeah, I know, you need a
+key...).  Once the golden door is open, you need to free the purple crystal
+from the rocks and move it onto its socket.  Then take the raft and cross
+the lava river to get the last keys.  But beware of the Red Frantic
+Arachnids, they are the Guardians of the Underworld and won't let you in so
+easily!
+
+Level 2. Spiky Maze: Take the raft onto the lava river.  Find the entrance
+into the spiky maze, but beware not to run into spikes heading toward you!
+Get all the keys and bombs you can and come back to your raft and then to
+the right passage with golden and silver doors.  Go down through it, while
+doing everything necessary to free your way.  Then get all the bombs and
+keys you can and head to the bottom room.  Experiment with the three levers
+to find out how to open the three harrows at the same time.  Then your out
+to the next level!
+
+Level 3. avaLDrop: (To be read like if there was a mirror right in the
+middle of the name :)  Get the bomb in the left room, then come back to the
+bow and take the right passage down to the lower room.  Make your way to the
+exit gem (to the left) by blowing up some rocks, and blocking some Fire
+traps.
+
+Level 4. B-Powder: (Like in "Black-Powder"!) The barrel in the lower left
+corner of the upper big room must be rolled right to the opposite wall, in
+order to trigger a chain reaction that will free the middle passage for you.
+Once in the lower room, pick-up the two keys without destroying them, and
+your ready to leave the level!
+
+Level 5. Fire Runes: Go step onto the two side rooms' trigger tiles and then
+go down in the middle passage.  Go get what's in the two chest on both sides
+and trigger the tile on the left.  Then take the right passage down to the
+last room.  Blow up some rocks and you're out of here!
+
+Level 6. Off-Rails: All the mine carts that are oriented vertically (with
+their wheels toward left and right) must be moved onto the trigger tiles on
+the top and bottom edges of the level.
+
+Level 7. Count: Blow up your way to the exit gem, but do count your bombs!
+
+Level 8. Devils: Go trigger all red buttons and then go to the exit gem
+immediately.  Be very cautious, because the Sarcasm Devils will try to
+convert you to the Evil!
+
+Level 9. Search!: Explore all chest to find all the bombs you need to
+complete the level.  Note: The first time you press on a chest, it opens and
+you get what's inside, and the second time you press it, it moves.  That's a
+very important detail in this puzzle because you need to use that to offset
+your clones correctly and prevent them from being killed.  (Joystick Note:
+Players using a joystick should use the keyboard for this level, since with
+the joystick, the chest will be opened at the same time as pushed).  When
+you've got the bombs, bring your clones in the passage to the right and make
+sure they are distanced correctly some both of them will make a rock blow up
+when you place the bombs.  You need both clones to complete this level.
+
+Level 10. Similar 2: Remember "Similar 1"?  Similar 2 is very similar to
+"Similar 1"! :)  But the previous strategy you used won't work here!  This
+one can be very easy or very hard, depending if you're lucky or bright.
+Like mentioned in the message, don't persist in playing the level only once.
+Retry it as many times as needed, it might be easier that way.
+
+Level 11.  Hide-Out: Reach the lever down to the right and go to the end.
+This one is very restricted in space and you'll need every single tile on
+the board!  The Foolish! version as an extra puzzle element before the end,
+which is really worth a try!
+
+Level 12. Blandor: Make your way through the level in order to gather all
+bombs.  Don't waste any single bomb since you'll need them all.  Be cautious
+to block all Fire traps in your way.
+
+Level 13. Let it!: Blow your way up to the trigger tile, then push the gray
+crystal all the way right to the vacuuming hole.  Then you're almost done.
+This one is a matter of sequence.  There are things that must be done now,
+and there are things that must wait a little before doing.  Well...  I've
+already told you too much, good luck!
+
+Level 14. After: Same advice as previous level.  You must blow your way to
+the exit gem to the right.  The lever in the middle of the level opens the
+harrow to the exit gem.
+
+Level 15.  Bomb Lack: Oh!  This one seems complex!  Don't worry, in fact it
+is quite simple when taken by little chunks.  Like the "Count" puzzle, this
+one is very tight as for the number of bombs you're given compared to the
+number you need!  Be very ingenious in your use of bombs.  The overall path
+to follow is to take the passage to the right, then up, then left into the
+biggest room.  Once everything as been gathered and triggered in this big
+room, head to the exit in the upper right corner of the level.
+
+Level 16. Malineous: Get the bombs in the two right-most chests, then clone
+yourself.  Now try to reach the exit gem.  NB: Try to take advantage of the
+fact you are two to optimize your usage of bombs.  This one is really more
+challenging at Foolish! since you're not given any extra bombs for
+completing the level.
+
+Level 17. Metal Jaws: Just try to survive until you reach the end, in this
+random maze controled by four Dumb Boars that care little about your fate!
+
+Level 18. Human Shape: Just take a few seconds to scroll down the level with
+the PgDn key.  Notice anything about the general shape of the level? :)
+(When you're done scrolling, press the ScrollLock key to reactivate
+Auto-Scrolling).  Your goal is to reach the left and right feet.  But first,
+you have to complete the puzzle in the torso, reach the left and right arms,
+and then go down on his belly.  NB: Notice something strange with the number
+of crystals in the torso, compared to the number of sockets???  Once you'll
+have reached the legs, you must trigger the corresponding tiles with your
+two clones.  The problem here is that you can't tell which tile is paired
+with which other tile...!
+
+Level 19. TouchDown!: Any Football fans here???  You'll love this one!  It's
+a nice idea from my friend Sebastien Courtemanche.  Get the ball then run
+past their blocking line, up to the TouchDown line!  By the way, the
+so-called "ball" is an Energical Gem.  Take care to notice the big
+"TouchDown" written with lava!
+
+Level 20. Gargoyles: Fire Gargoyles are strange creatures with mystical
+powers that can make you shrunk until you totally disappear.  But they also
+have a weakness.  They can't support being touch by a Living Being, which
+makes them petrify into stone statues.  The only way you can reach them
+safely is when they're looking away from you, so they can't see you coming.
+The general path to follow is to gather all bombs in the upper corridor,
+then down into the magical room (beware here!).  From this room, I'd suggest
+to take either the left or right passage.  Then travel down the level
+completely, in order to gather more bombs and trigger some tiles.  When
+you're done with one side, do the same for the opposite side you haven't
+explored yet.  When all trigger tiles will have been activated, the middle
+room filled with those nasty creatures will be opened for you to cross.  If
+you're still alive after that, you'll have to trigger the tiles on both
+lower corners of the level.  These will o pen the way to the Deep Void (at
+the bottom of the level, right in the middle).  Be confident, and face the
+Deep Void.  It will lead you to the final level of the Ground Bowels
+episode.
+
+Level 21.  Chickaboum!: Bring all crystals over their corresponding color
+sockets.  Another puzzle with a...  DEADLY COUNTDOWN!!!  This one is REALLY
+a great challenge at the Foolish! difficulty level.  No matter the
+difficulty level, you'd better plan the exact sequence of the blocks you'll
+move, etc...  since it's really a matter of timing and planification.
+
+
+--- Episode 4: Candy Land --------------------------------------------------
+
+Level 1.  Alzabarki: Clone yourself with the cloning rune right in front of
+you.  Then, you must align all clones in the side rooms on the green trigger
+tiles.  Once you succeeded, make all the clones on the sides exit and move
+up the middle passage, then repeat the same procedure for the two other side
+rooms.
+
+Level 2. Run!!!: Well...  RUN!!!!!!!!!!!!
+
+Level 3. Alibaba: Remember Alibaba's Hide-Out?  Don't touch the little
+goodies or you'll be trapped and roasted!  Once you're out of the Room of
+Temptation, say goodbye to your clone brother, and try to reach the exit gem
+in the upper room.
+
+Level 4. Traffic Jam: Your goal here is to make the creatures step on all
+the green trigger tiles in the upper room (not necessarily at the same time!
+:)  To achieve this, you have to step on the tiles in the lower corridor.
+This makes the pipes and intersection in the room change of direction.
+Funny!...
+
+Level 5. Country: Here you must travel in the Candy Land outside world to
+trigger all red buttons.  Once all buttons have been triggered, the exit in
+the upper right corner of the level will be open.
+
+Level 6. Six: Just align the six clones over the six tiles and that's it!
+However it might not be as easy as it looks!
+
+Level 7. Rescue: Here you must make your way to your clone on the right-hand
+part of the level and bring both of them back to the exit gem.
+
+Level 8. Get Back: Trigger all green tiles in the level in order to access
+the exit gem.
+
+Level 9. Sentries: Align all clones on the tiles, but beware of the Frantic
+Arachnid sentries!
+
+Level 10. Catoblepas: Free the other clone with the four crystals, then use
+both of them to open the exit with the same crystals.
+
+Level 11.  The Gate: Make all clones travel through the big gate way.
+
+Level 12.  The Bridge: Remember "The Raft"?  Now there's some extra
+elements, like the bridge for the mine cart...
+
+Level 13. COY: Arrange the crystals in the three rooms. Be VERY careful with
+your movements.
+
+Level 14. Azanis: Get the keys, place the green crystals over their sockets,
+use the lever(s) in the upper left corner of the level wisely and with
+strategy.  Then bring both clones on the green tiles around the big blue
+"2".  You'll need both clones alive in order to complete this level.
+
+Level 15. Nine: Crystals on the left, sockets on the right, you guessed it!
+Be very careful not to waste or block any crystals in the left room, you'll
+need nine of them!
+
+Level 16.  Exchange: This time crystals are already on sockets, but not the
+right ones!  You must rearrange them with the use of the railway and
+mine-cart.  There's some very particular way to make the crystals travel on
+railroads, and a tip might as well be suggested by your environment...  Pay
+attention to details...
+
+Level 17.  Get Them Out: You must retrieve the blue crystals in the upper
+room and move them to their sockets.  You must also reserve the raft for
+getting the silver key in the upper left corner of the level.
+
+Level 18.  Rooms: Here you must go through six rooms of hazards and puzzles.
+The first room requires the rocks in front of the door to be blown away.
+The second is filled with spider(s).  The third is a crystal warehouse you
+must rearrange a little.  The fourth is... well... EASY!  And the fifth
+contains powder barrels to be used in the sixth room.  Good luck!
+
+Level 19. Passage 2: For this one, you need to align all clone into one
+vertical column and then move all this column of clones down into the
+passage.  If you're playing in Foolish! mode, you have the extra step of
+moving the two last clones on the green tiles, without displacing the
+vertical column of clones, in order to open the harrow to the passage.
+REALLY worth trying it in Foolish!!!! :)
+
+Level 20. Arrgghh!!!: The two tiles in the room to the right must be held
+down by something heavy.  This opens the harrow to the exit gem.  But this
+puzzle is really hard!  Don't be sad if you can't complete it in KooL or
+Foolish! the first time.  The design of this puzzle is by my friend
+Sebastien Courtemanche, who by the way is really a puzzle SADISTIC!!!!  If
+you're really confused by the many elements, try it in Childish, then once
+you grasped the idea behind the puzzle, try it in KooL, then in Foolish!
+The foolish version is by me.  I just added two more spiders to the KooL
+version, but that was enough to render it unfeasible! I have to admit I had
+to play it for a while before finishing this abomination of puzzle, timing,
+and coordination! :)
+
+
+--- Episode 5: Future Destiny ----------------------------------------------
+
+Level 1.  The Secret: Four crystals, four sockets...  But doesn't anything
+look strange to you???
+
+Level 2. Vacuums: Get the four keys, then reach the exit gem.  But beware
+not to be swallowed by the vacuuing holes on the ground!
+
+Level 3. The M: You must move the crystals from one end of the big M to the
+other.
+
+Level 4. Hyarusz: Get the red key, then open the red door which hides the
+blue key, then reach the blue door.  Under this door is the triggering tile
+that will open the exit.  But beware of Living Sparks!  Try to move with
+their rhythm if you don't want to be electrified!
+
+Level 5. Teleportal: The teleporting portals!  Use the portals to travels
+between rooms and arrange the crystals.
+
+Level 6. Controlers: You must bring both clones (in the middle passage) to
+the trigger tiles on the left and right sides of the level.  The two other
+clones control the energy gates.
+
+Level 7. Sparks: Trigger all tiles, but get synchronized!
+
+Level 8. Ray Guns: Get the red key, then get the blue key, then reach for
+the blue door.  If you play Foolish! then you must then come back to the
+starting position (lower left corner of the level).  Here, you'd better
+write down what lever rotates which ray gun, since you'll need to toggle
+then many times to travel in this lethal maze!
+
+Level 9. Pattern: Align all clones to fit the pattern of the trigger tiles.
+
+Level 10.  Yu Wang: Bring all clones on the trigger tiles.  If you're
+playing KooL or Foolish! then you'll have to duplicate into more clones, in
+order to occupy all tiles.  All clones must survive.
+
+Level 11. Ipon: Arrange all crystals.  Beware not to displace the ones that
+you already set, this is the main difficulty in this puzzle.
+
+Level 12. The Pair: Here you've got to take advantage of you pair of clone.
+Both of them must make their way to the end, because all mecanisms are
+triggered by sets of two tiles, as the big computers at NASA are controlled
+by two keys that only two different persons can handle!
+
+Level 13. E-Shield: One way or the other, you end up electrified!  Well,
+there has to be a way to avoid death...  And even if you find a way, you'll
+still have to succeed putting your plan to execution!
+
+Level 14. Got The Blue: Use the blue crystals in the left room to protect
+yourself from the vacuuing holes in the right part.  Plan everything wisely
+and don't waste a single crystal!  (except the ones that you can't save)
+
+Level 15. Electrokus: Trigger all tiles and avoid the electrical waves!
+
+Level 16. Trapful: Get the yellow crystals in the right part of the level to
+protect yourself from the traps and reach the exit gem.  Once again, don't
+waste any crystals or bombs.
+
+Level 17. Synchro: Bring the right clone onto the right trigger tile. This
+will open the left trigger tile, for the left clone to reach.  Mostly a
+matter of synchro and itinerary.
+
+Level 18. The Path: Well... Short-cuts are not valuable alternatives here...
+You'd better follow the path, and follow it quickly!
+
+Level 19. Tubic: This one as two major steps.  During the first step, one
+clone will control the pipes for the other to follow, and pick-up goodies,
+and during the second step, they will have their role exchanged.  Once you
+have all the keys and jewels, bring both clones down to the middle passage,
+and climb it up to the exit gem.
+
+Level 20. Self-Destrux: You know when big space ships enter in
+auto-destruction mode, and then you have to escape the ship before becoming
+yet another space debris?  That's the matter here!  There's a chain reaction
+of exploding toxic-waste-barrels that will destroy the only keys to the end
+of the episode, and like if that wasn't enough, there's a mecanical glutton
+triggering a countdown that will make all the level burst! You start the
+level with four bombs already in your inventory.  You must retrieve the 8
+blue keys, then use 4 of them to open the two door to the right and the two
+others at the bottom, which will provide you with 4 red keys.  The 4 red
+keys give access to the 4 trigger tiles that open the energy gate near the
+exit.  When this gate is open, rush toward the exit and wait for the final
+explosion, if any time's left at all!
+
+
+--- Episode 6: Kaos Realms -------------------------------------------------
+
+Level 1. Revolve: Here you must turn counter-clockwise and trigger all the
+lever.  You must be cautious not to block the way behing you, since you'll
+have to pass there many times.
+
+Level 2. Intersect: Well...  Try to reach the exit gem!
+
+Level 3. 4th Power: Use the clone that is free to go free the three others,
+then gather them in the middle room to open the exit.
+
+Level 4. Eight: Arrange the crystals.
+
+Level 5. Interval-5: Bring all 5 clones onto the 5 trigger tiles at the
+bottom of the level.
+
+Level 6. aMAZEing 2: Remember aMAZEing 1?  Now there are turning one ways!
+
+Level 7. Blind: And the blind shall find its way!!! :)
+
+Level 8. The Lock: Trap most or all spiders in the room at the right.  To
+help you with this is a lock in which you can trap spiders temporarily and
+then transfer into the big room.  The left and right tiles of the lower
+corridor can be used in case of desperate situations!
+
+Level 9. Similar 3: Remember Similar 1 and 2?  Now that's a brand new
+design, with the same concept of two clones in two almost identical rooms.
+Your goal is to enter the little rooms in the lower right corner of each big
+room.  For this you need at least one silver key and one golden key.
+
+Level 10. Way Back: Activate all buttons as they appear.  But plan you way
+back wisely!
+
+Level 11. Turn-O-Ring: There are trigger tiles, and there are rings.  Move
+the rings onto the trigger tiles.  But, well...  Rings won't roll in any
+directions...?
+
+Level 12. Ghosts: This one may remind you of PacMan!  Your goal is to
+trigger all the tiles, and reach the exit gem.  If you retrieve the Devil
+Runes, then you'll be invincible for some times...
+
+Level 13. The Curse: There's something very weird happening...  No matter
+the curse cast upon your clones, you must still try to trigger all tiles at
+once.
+
+Level 14. Symmetry: Here, almost everything is symmetrical, except the way
+your clones move!  Move the crystals over their sockets.
+
+Level 15. Get Away: Tired of always trying to arrange the clone so they fit
+perfectly over all the tiles at once?  This time, you have to remove them
+from all the tiles at once!
+
+Level 16.  Lead It!: Tired of always having to go trigger all the tiles by
+moving the clones?  This time, someone else will do it at your place.  But
+as you will learn here, making someone else do exactly what you want is
+often way harder than doing it yourself!!!
+
+Level 17. Yalidla: Yet another move-the-crystal-over-the-socket puzzle.  But
+that's no easy business when you're given so little working space!
+
+Level 18. Preserve'em: Four silver keys to open four silver doors.  Four
+destroyed silver keys won't open four silver doors.  Must preserve four
+silver keys to preserve chances of leaving level alive.  Simple? Nah!
+
+Level 19. Claws: Bring all clones in the corridor in the lower left corner
+of the level.  From there, you can open the harrow to the lower corridor by
+stepping on all the tiles at once.  From the lower corridor, you can reach
+the so well protected golden key.   The other tiles at the left of the
+golden key open the door to exit this part of the level.  Then bring all
+clones up to the top-most corridor, and to the golden door.  Beyond the
+golden door is a chest you must access in order to retrieve the four silver
+keys that free the way to the exit gem.
+
+Level 20.  Species: What a nice souvenir of all the species you encountered
+in the six Clone Worlds.  But, as a souvenir, it should remind you that
+you're not out of the wood!  Trigger all red buttons and reach for the
+stairs at the top of the level, which lead directly to The Final Level!!!
+
+Level 21. Dead End: No one single second to waste!  First set the five
+crystals onto their sockets.  Second, push the raft left, then all the way
+down, into the toxic waste, and get the golden key.  Then leave the island
+where you got this key and get the new raft that just appeared near-by and
+push it to the upper right lake, where you'll retrieve the silver key.  Once
+you got both keys, head to the golden and silver doors, open them, push the
+mine-cart down onto the rails at the bottom of the level.  By this time the
+Horde of Fiends of Kaos will be after you.  While on the rails, try to avoid
+them, and escape to the right to the exit gem.  Be quick, since the exit gem
+might not wait for you very longly!
+
+
+                                  The End!
+
+
+    You finally DID it!!!!  Do you realize?!?!?  You went through all the
+    Clone puzzles!  Now you've got something to flabbergast your friends
+    with.  And what an epic story to tell your grand-children, years from
+    now!  You will now be able to sleep normally, eat normally, well...  do
+    everything as you used to before entering the captivating World of
+    Clone.  WAIT!!!  Do you really think it's over???  Do you really think
+    we, the people at Antares, will let you one second away from your
+    computer, wandering with pleasure in the laziness of Life???  NO WAY!!!
+    Clone will soon be back into your computer, for weeks of even more
+    torturing new puzzles!!!  Meanwhile, have a deep breath, 'cause you
+    can't tell when insomnia and little blue things running all over your
+    mind will strike you back...
+
+                                                    MidKnight, Antares Prod.

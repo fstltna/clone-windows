@@ -1,0 +1,108 @@
+# Corridor 1
+Z
+rr DsW dd sW
+
+# Room 1 (Crystal Sockets)
+dlldrrurdd
+Z
+lllddruulurrddd
+
+
+# Corridor 2
+dddrrrrrrruuD sW
+
+# Room 2 (One-Ways)
+uuluruluru
+
+
+# Corridor 3
+uurrrrrrrdd sW
+
+# Room 3 (Triggers)
+ddrddl
+lrD
+Z
+lrD
+Z
+uuulddrddd
+
+
+# Corridor 4
+d sW
+dd
+Z
+d sW
+
+
+# Room 4 (Clones)
+ddddrrdllzuuulldzrdZ
+llz
+ddz
+rz
+
+
+# Corridor 5
+ddd sW
+ll
+Z
+llllluuD sWZ
+
+# Room 5 (Bombs)
+uruull
+Z
+lszrrD
+ZZ
+ll
+
+
+# Corridor 6
+llD sW
+
+# Room 6 (Traps)
+luuD
+Z
+llllD
+Z
+dddd
+Z
+rrD
+Z
+
+
+# Corridor 7
+d sW
+dddd
+Z
+
+# Room 7 (Potions)
+SzSzsZ
+SzsZ
+SzSzsZ
+dZ
+ldldddZ
+rrZ
+uruDZz
+rZ
+r
+
+
+# Corridor 8
+rD sW
+
+# Room 8 (Spikes)
+rruDZrruDZrddr
+
+
+# Corridor 9
+rD sW
+
+# Room 9 (Buttons & Levers)
+rUzuDzdzdzdzruuLzlzddddLzlzrr
+
+
+# Corridor 10
+rD sW
+
+# Room 10 (End)
+uuD sW
+uu
